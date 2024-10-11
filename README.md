@@ -1,1 +1,1 @@
-# faster-ChatTTS
+# streaming-ChatTTS
