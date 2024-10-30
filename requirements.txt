@@ -2,4 +2,5 @@ ChatTTS
 click
 modelscope
 streaming-dvae
+wavesurfer
 wetext
